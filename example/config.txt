@@ -1,0 +1,2 @@
+Prefix plugins/Hilbert/example/
+Plugin Hilbert inputfile parameters.txt outputfile .
